@@ -1,0 +1,4 @@
+name: 'Dyslexia Run Action'
+runs:
+  using: 'node16'
+  main: 'script.js'
